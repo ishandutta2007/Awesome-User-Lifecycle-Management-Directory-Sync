@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Lifecycle-Management-Directory-Sync/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,67 +63,67 @@ Below is a detailed benchmark of leading commercial, cloud-hosted User Lifecycle
 
 Self-hosted, community-driven User Lifecycle Management, Directory Sync, and IAM platforms. Ranked in descending order of GitHub community stars.
 
-### 1. [Keycloak](https://github.com/keycloak/keycloak) [![GitHub Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
+### 1. [Keycloak](https://github.com/keycloak/keycloak) [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
 * **Stack:** Java | **License:** Apache-2.0
 * **Repository:** `keycloak/keycloak`
 * **Overview:** The industry-standard open-source identity and access management system. Provides robust user federation across LDAP, Active Directory, and Kerberos, integrated SCIM 2.0 provisioning capabilities, identity brokering, dynamic role mapping, and event-driven lifecycle actions.
 
-### 2. [Authelia](https://github.com/authelia/authelia) [![GitHub Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
+### 2. [Authelia](https://github.com/authelia/authelia) [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
 * **Stack:** Go / TypeScript | **License:** Apache-2.0
 * **Repository:** `authelia/authelia`
 * **Overview:** Lightweight identity and access management portal with deep directory integration. Connects directly to existing LDAP/Active Directory servers for live user synchronization, multi-factor authentication (FIDO2 WebAuthn, TOTP), and forward-auth proxy access control.
 
-### 3. [Authentik](https://github.com/goauthentik/authentik) [![GitHub Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)
+### 3. [Authentik](https://github.com/goauthentik/authentik) [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)
 * **Stack:** Python / Go / Vue | **License:** GPL-3.0
 * **Repository:** `goauthentik/authentik`
 * **Overview:** An open-source, versatile Identity Provider emphasizing automated lifecycle pipelines and directory sync. Features native SCIM 2.0 outbound and inbound synchronization, LDAP Outpost server capabilities, enrollment workflows, and custom Python execution stages for joiner-mover-leaver lifecycle rules.
 
-### 4. [Zitadel](https://github.com/zitadel/zitadel) [![GitHub Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
+### 4. [Zitadel](https://github.com/zitadel/zitadel) [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
 * **Stack:** Go / Next.js | **License:** Apache-2.0
 * **Repository:** `zitadel/zitadel`
 * **Overview:** Cloud-native, event-sourced IAM built for multi-tenant organizations. Features granular B2B organizational hierarchies, machine identity lifecycle management, automated user provisioning via robust APIs, and audit trails for all lifecycle operations.
 
-### 5. [Casdoor](https://github.com/casdoor/casdoor) [![GitHub Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
+### 5. [Casdoor](https://github.com/casdoor/casdoor) [![GitHub_Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
 * **Stack:** Go / React | **License:** Apache-2.0
 * **Repository:** `casdoor/casdoor`
 * **Overview:** UI-first, developer-friendly Identity and Access Management platform supporting OAuth 2.0, OIDC, SAML, and CAS. Features built-in bidirectional LDAP/Active Directory synchronization, automated SCIM provisioning, batch user imports/exports, and granular role assignments.
 
-### 6. [Dex IDP](https://github.com/dexidp/dex) [![GitHub Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)
+### 6. [Dex IDP](https://github.com/dexidp/dex) [![GitHub_Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)
 * **Stack:** Go | **License:** Apache-2.0
 * **Repository:** `dexidp/dex`
 * **Overview:** OpenID Connect identity broker that syncs and federates credentials from multiple backing directories (LDAP, SAML, GitHub, Google, Keystone). Acts as a single source of directory authentication for Kubernetes clusters and distributed microservices.
 
-### 7. [Kanidm](https://github.com/kanidm/kanidm) [![GitHub Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)
+### 7. [Kanidm](https://github.com/kanidm/kanidm) [![GitHub_Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)
 * **Stack:** Rust / WebAssembly | **License:** MPL-2.0
 * **Repository:** `kanidm/kanidm`
 * **Overview:** Modern, fast, and secure identity management service built with memory-safe Rust. Functions as an enterprise directory server with automated credential lifecycle policies, Unix PAM/NSS integration, RADIUS/OIDC support, and fine-grained access delegation.
 
-### 8. [BoxyHQ Jackson](https://github.com/boxyhq/jackson) [![GitHub Stars](https://img.shields.io/github/stars/boxyhq/jackson?style=social&color=white)](https://github.com/boxyhq/jackson/stargazers)
+### 8. [BoxyHQ Jackson](https://github.com/boxyhq/jackson) [![GitHub_Stars](https://img.shields.io/github/stars/boxyhq/jackson?style=social&color=white)](https://github.com/boxyhq/jackson/stargazers)
 * **Stack:** Node.js / TypeScript | **License:** Apache-2.0
 * **Repository:** `boxyhq/jackson`
 * **Overview:** Purpose-built enterprise directory sync and SAML SSO gateway. Implements standard SCIM 2.0 endpoints for real-time employee provisioning and deprovisioning directly from enterprise IdPs (Okta, Azure AD/Entra, OneLogin, JumpCloud) into modern SaaS databases via webhooks.
 
-### 9. [WSO2 Identity Server](https://github.com/wso2/product-is) [![GitHub Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
+### 9. [WSO2 Identity Server](https://github.com/wso2/product-is) [![GitHub_Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
 * **Stack:** Java | **License:** Apache-2.0
 * **Repository:** `wso2/product-is`
 * **Overview:** Digital Public Good-recognized enterprise IAM suite supporting full identity lifecycle operations. Supports inbound/outbound SCIM 2.0 provisioning, workflow approvals for onboarding, identity federation, adaptive MFA, and directory aggregation across enterprise databases.
 
-### 10. [Janssen Project (Jans)](https://github.com/JanssenProject/jans) [![GitHub Stars](https://img.shields.io/github/stars/JanssenProject/jans?style=social&color=white)](https://github.com/JanssenProject/jans/stargazers)
+### 10. [Janssen Project (Jans)](https://github.com/JanssenProject/jans) [![GitHub_Stars](https://img.shields.io/github/stars/JanssenProject/jans?style=social&color=white)](https://github.com/JanssenProject/jans/stargazers)
 * **Stack:** Java / Python | **License:** Apache-2.0
 * **Repository:** `JanssenProject/jans`
 * **Overview:** High-performance, Linux Foundation-hosted identity platform developed from the Gluu Server codebase. Features native SCIM 2.0 inbound/outbound user provisioning, high-volume directory clustering, FIDO authentication, and automated identity orchestration.
 
-### 11. [Evolveum midPoint](https://github.com/Evolveum/midpoint) [![GitHub Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
+### 11. [Evolveum midPoint](https://github.com/Evolveum/midpoint) [![GitHub_Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
 * **Stack:** Java | **License:** CDDL-1.0
 * **Repository:** `Evolveum/midpoint`
 * **Overview:** Premier open-source Identity Governance and Administration (IGA) framework. Delivers full Joiner-Mover-Leaver automation, policy-driven approvals, Segregation of Duties (SoD) enforcement, access certification campaigns, role mining, and deep SCIM/LDAP synchronization connectors.
 
-### 12. [Apache Syncope](https://github.com/apache/syncope) [![GitHub Stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope/stargazers)
+### 12. [Apache Syncope](https://github.com/apache/syncope) [![GitHub_Stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope/stargazers)
 * **Stack:** Java | **License:** Apache-2.0
 * **Repository:** `apache/syncope`
 * **Overview:** An open-source system for managing digital identities in enterprise applications. Implements comprehensive user and role provisioning, propagation, and synchronization across multiple target resources using ConnId, SCIM 2.0, and BPMN-driven workflow execution engines.
 
-### 13. [Hanzo IAM](https://github.com/hanzoai/iam) [![GitHub Stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers)
+### 13. [Hanzo IAM](https://github.com/hanzoai/iam) [![GitHub_Stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers)
 * **Stack:** Go | **License:** Apache-2.0
 * **Repository:** `hanzoai/iam`
 * **Overview:** Modern Go-based IAM and MCP gateway designed for AI workflows and distributed microservices. Features integrated SCIM provisioning for automated user lifecycles, LDAP integration, WebAuthn, multi-tenancy, and 40+ authentication protocols.
